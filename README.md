@@ -1,1 +1,2 @@
-# Space Mayhem Readme 레포지토리에요
+# Space Mayhem Readme
+profile/README.md 파일 수정하면 됩니다!
